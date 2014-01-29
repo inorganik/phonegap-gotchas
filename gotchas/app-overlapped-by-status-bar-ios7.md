@@ -4,7 +4,7 @@
 
 >In iOS 7, the app's webivew is overlapped by the status bar.
 
-#### SOLUTION
+##### SOLUTION
 
 This is actually the intended behavior of iOS 7. It’s part of the new look, which makes the status bar seem more integrated in the UI.  The problem is, you likely want to be able to run your app on iOS 6 and iOS 7, and need to account for that extra 20px one way or another. Here’s one fix:
 
