@@ -1,10 +1,16 @@
 ## Cordova 3.X plugins don’t work.
 
+##### PROBLEM
+
+You install a plugin, but the plugin features are not working, and/or the JavaScript objects they should be creating are undefined.
+
+##### SOLUTION
+
 Although the documentation states, to install a plugin, run:
 
     cordova plugin add org.apache.cordova.dialogs
     
-But that doesn’t actually install it. More like, downloads it. You must run
+But that doesn’t actually install it. More like downloads it. You must run
 
     cordova prepare ios
    
