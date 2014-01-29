@@ -1,5 +1,0 @@
-## 99 Config file problems
-
-##### PROBLEM
-
-> After preparing your project via CLI, you may notice the platform config files don’t pick up exactly what’s in your root config file, and instead show the stock “Hello Cordova” info
