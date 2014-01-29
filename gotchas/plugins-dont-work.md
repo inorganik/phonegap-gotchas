@@ -6,7 +6,7 @@
 
 ##### SOLUTION
 
-Although the documentation states, to install a plugin, run:
+The documentation states, to install a plugin, run:
 
     cordova plugin add org.apache.cordova.dialogs
     
