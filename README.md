@@ -12,6 +12,6 @@ Find your problem in the list below, which links to the .md file explaining poss
 - [What is the difference between the PhoneGap CLI and the Cordova CLI?](gotchas/phonegap-vs-cordova.md)
 - [Config file problems](gotchas/config-file-problems.md)
 - [Cordova 3.X plugins don't work](gotchas/plugins-dont-work.md)
-- [Splashcreen jumps just before app loads](gotchas/splashscreen-jumps.md)
+- [Splashcreen moves/changes size just before app loads](gotchas/splashscreen-jumps.md)
 - [iOS 7 - webview is overlapped by status bar](gotchas/app-overlapped-by-status-bar-ios7.md)
 - [iOS 7 - keyboard changes webview size](ios-keyboard-changes-webview-size.md)
