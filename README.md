@@ -7,7 +7,7 @@ Find your problem in the list below, which links to the .md file explaining poss
 
 ***
 
-#### PROBLEMS
+#### GOTCHAS
 
 - [What is the difference between the PhoneGap CLI and the Cordova CLI?](gotchas/phonegap-vs-cordova.md)
 - [Config file problems](gotchas/config-file-problems.md)
@@ -15,3 +15,5 @@ Find your problem in the list below, which links to the .md file explaining poss
 - [Splashcreen moves/changes size just before app loads](gotchas/splashscreen-jumps.md)
 - [iOS 7 - webview is overlapped by status bar](gotchas/app-overlapped-by-status-bar-ios7.md)
 - [iOS 7 - keyboard changes webview size](ios-keyboard-changes-webview-size.md)
+
+Add yours here if it's missing!
