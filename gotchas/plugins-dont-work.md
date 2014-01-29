@@ -2,7 +2,7 @@
 
 ##### PROBLEM
 
-You install a plugin, but the plugin features are not working, and/or the JavaScript objects they should be creating are undefined.
+>You install a plugin, but the plugin features are not working, and/or the JavaScript objects they should be creating are undefined.
 
 ##### SOLUTION
 
