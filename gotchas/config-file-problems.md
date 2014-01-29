@@ -1,4 +1,4 @@
-## 99 Config file problems
+## Config file problems
 
 ##### PROBLEM
 
