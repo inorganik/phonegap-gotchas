@@ -2,7 +2,7 @@
 
 ##### PROBLEM
 
-On launch, the splashscreen changes size and jumps off the screen at the last second before the app loads.
+>On launch, the splashscreen changes size and jumps off the screen at the last second before the app loads.
 
 
 ##### SOLUTION
